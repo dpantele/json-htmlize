@@ -1,16 +1,3 @@
-(function() {
-  if(typeof document === "undefined") {
-    // node.js
-    var jsdom = require('jsdom');
-    document = jsdom.jsdom("<html><body><h1>Hello</h1></body></html>", {
-      features: {
-        // QuerySelector must be turned on on the specific document we're creating
-        QuerySelector: true
-      }
-    });
-  }
-})();
-
 module.exports = {
 
   toHtmlDom: function ( json ) {
