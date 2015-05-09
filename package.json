@@ -3,9 +3,6 @@
   "version": "0.1.4",
   "description": "Utility that converts your JSON to a html representation",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha --reporter nyan"
-  },
   "dependencies": {},
   "repository": {
     "type": "git",
@@ -22,9 +19,4 @@
     "url": "https://github.com/hrishikeshs/json-htmlize/issues"
   },
   "homepage": "https://github.com/hrishikeshs/json-htmlize",
-  "devDependencies": {
-    "chai": "^1.9.1",
-    "mocha": "^1.21.4",
-    "jsdom": "^3"
-  }
 }
