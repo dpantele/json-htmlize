@@ -4,19 +4,11 @@
   "description": "Utility that converts your JSON to a html representation",
   "main": "index.js",
   "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hrishikeshs/json-htmlize"
-  },
   "keywords": [
     "json",
     "html",
     "converter"
   ],
   "author": "Hrishikesh S <hrish2006@gmail.com> (http://programmerhrishi.blogspot.in/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hrishikeshs/json-htmlize/issues"
-  },
-  "homepage": "https://github.com/hrishikeshs/json-htmlize",
+  "license": "MIT"
 }
